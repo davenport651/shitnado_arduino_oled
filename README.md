@@ -11,3 +11,7 @@ Requires:
 * [Adafruit-GFX-Library](https://github.com/adafruit/Adafruit-GFX-Library)
 
 ![shitnado](/shitnado.png)
+
+<img src="shitnado.gif" width="45%" />
+
+<video src="https://github.com/davenport651/shitnado_arduino_oled/raw/refs/heads/main/shitnado-arduino.mp4"></video>
